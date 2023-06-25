@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer className='flexStart footer'>Footer</footer>
+    <footer className='flexS'>Footer</footer>
   )
 }
 
